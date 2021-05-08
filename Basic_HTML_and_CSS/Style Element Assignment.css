@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <style>
+    .g3n_style {
+        background-color: bisque;
+        color:coral;
+        text-decoration: italic;
+        font-weight: bold;
+        font-size: medium
+    }
+    </style>
+    <h2 class="g3n_style">Arnold Schwarzenegger</h2>
