@@ -7,7 +7,7 @@ td:hover {
 }
 tr, th {
     background-color: rgb(183, 137, 226);
-    color: rgb(66, 64, 64)
+    color: rgb(66, 64, 64);
 }
 tr, td {
     background-color: indianred;
