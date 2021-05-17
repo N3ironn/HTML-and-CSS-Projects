@@ -3,13 +3,21 @@
         <title>N3-CONSTRUCTION SOLUTIONS</title>
         <link rel="stylesheet" type="text/css" href="Contact_Form_Style.css">
     </head>
+
     <body>
+
         <div class="contact-title">
                 <h1>Send Us an Inquiry</h1>
                 <h2>We would love to hear from you!</h2>
         </div>
 
-
-
+        <div class="contact-form">
+            <form id="contact-form" method="post" action="">
+            <input name="name" type="text" class="form-control" placeholder="Your Name" required><br>
+            <input name="email" type="text" class="form-control" placeholder="Your Email" required><br>
+                <textarea name="message" class="form-control" placeholder="Message" row="4"required></textarea><br>
+                <input type="submit" class="form-control submit" value="SEND MESSAGE">
+          </form>
+        </div>
     </body>
 </html>
