@@ -77,8 +77,9 @@ img:hover {
 }
 
 footer {
-    padding: 2%;
-    background-color: white;
+    padding: .5%;
+    background-color: coral;
+    
 }
 
 .navbar {
